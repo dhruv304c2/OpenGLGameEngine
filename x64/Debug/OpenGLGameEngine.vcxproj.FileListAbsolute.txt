@@ -1,1 +1,2 @@
 C:\Users\SAI\source\repos\OpenGLGameEngine\OpenGLGameEngine\OpenGLGameEngine\x64\Debug\OpenGLGameEngine.exe
+C:\Users\SAI\source\repos\OpenGLGameEngine\x64\Debug\OGLGameEngine.exe

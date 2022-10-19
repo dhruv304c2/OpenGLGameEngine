@@ -1,2 +1,4 @@
-﻿  OWindow.cpp
-  OpenGLGameEngine.vcxproj -> C:\Users\SAI\source\repos\OpenGLGameEngine\OpenGLGameEngine\OpenGLGameEngine\x64\Debug\OpenGLGameEngine.exe
+﻿OGraphicsEngine.obj : warning LNK4204: 'C:\Users\SAI\source\repos\OpenGLGameEngine\x64\Debug\vc143.pdb' is missing debugging information for referencing module; linking object as if no debug info
+glad.obj : warning LNK4204: 'C:\Users\SAI\source\repos\OpenGLGameEngine\x64\Debug\vc143.pdb' is missing debugging information for referencing module; linking object as if no debug info
+glad_wgl.obj : warning LNK4204: 'C:\Users\SAI\source\repos\OpenGLGameEngine\x64\Debug\vc143.pdb' is missing debugging information for referencing module; linking object as if no debug info
+  OpenGLGameEngine.vcxproj -> C:\Users\SAI\source\repos\OpenGLGameEngine\x64\Debug\OGLGameEngine.exe
